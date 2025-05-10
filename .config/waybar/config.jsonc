@@ -32,9 +32,13 @@
         //"format": "{icon}",
     },
 
+    "tray": {
+        "icon-size": 13,
+        "spacing": 10
+    },
 
     "clock": {
-	"format": "{:%A    %d-%B-%Y    %H:%M}",        
+        "format": "{:%A    %d-%B-%Y    %H:%M}",
         "interval": 1,
         "rotate": 0,
         "tooltip-format": "<tt>{calendar}</tt>",
@@ -51,6 +55,7 @@
             }
         }
     },
+
     "backlight": {
         "device": "intel_backlight",
         "format": "{icon} {percent}%",

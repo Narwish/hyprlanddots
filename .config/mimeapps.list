@@ -9,6 +9,7 @@ application/x-extension-shtml=userapp-Firefox-RQXC62.desktop
 application/xhtml+xml=userapp-Firefox-RQXC62.desktop
 application/x-extension-xhtml=userapp-Firefox-RQXC62.desktop
 application/x-extension-xht=userapp-Firefox-RQXC62.desktop
+text/plain=kitty.desktop
 
 [Added Associations]
 x-scheme-handler/http=userapp-Firefox-RQXC62.desktop;
@@ -21,3 +22,4 @@ application/x-extension-shtml=userapp-Firefox-RQXC62.desktop;
 application/xhtml+xml=userapp-Firefox-RQXC62.desktop;
 application/x-extension-xhtml=userapp-Firefox-RQXC62.desktop;
 application/x-extension-xht=userapp-Firefox-RQXC62.desktop;
+text/plain=kitty.desktop;

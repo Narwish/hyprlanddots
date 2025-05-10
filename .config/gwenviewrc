@@ -1,12 +1,35 @@
 [General]
+BackgroundColorMode=DocumentView::Dark
 LastUsedVersion=210800
+SideBarPage=operations
+UrlNavigatorIsEditable=true
 
 [MainWindow]
 MenuBar=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/Wallpapers/Minimalist/uwp4286179.jpeg
-Name1[$e]=uwp4286179.jpeg
+File1[$e]=$HOME/Wallpapers/Nature/2 - tXtwrPd.jpg
+File10[$e]=/usr/share/wlogout/icons/shutdown.png
+File2[$e]=$HOME/Wallpapers/Nature/4 - QguApMA.jpg
+File3[$e]=$HOME/Wallpapers/Nature/5 - Xulubox.jpg
+File4[$e]=$HOME/Wallpapers/Nature/10 - IVefonq.jpg
+File5[$e]=$HOME/Wallpapers/Nature/11 - XqJH9vD.jpg
+File6[$e]=$HOME/Wallpapers/Nature/15 - fgfG6Hl.jpg
+File7[$e]=$HOME/Wallpapers/Nature/18 - p53E302.jpg
+File8[$e]=$HOME/Wallpapers/Nature/19 - OdjFda3.jpg
+File9[$e]=$HOME/Wallpapers/Nature/20 - Pboz5mG.jpg
+Name1[$e]=2 - tXtwrPd.jpg
+Name10[$e]=shutdown.png
+Name2[$e]=4 - QguApMA.jpg
+Name3[$e]=5 - Xulubox.jpg
+Name4[$e]=10 - IVefonq.jpg
+Name5[$e]=11 - XqJH9vD.jpg
+Name6[$e]=15 - fgfG6Hl.jpg
+Name7[$e]=18 - p53E302.jpg
+Name8[$e]=19 - OdjFda3.jpg
+Name9[$e]=20 - Pboz5mG.jpg
 
 [SideBar]
-InformationSplitterSizes=0,0
+InformationSplitterSizes=237,238
+IsVisible ViewMode=true
+SideBarSplitterSizes=230,702
